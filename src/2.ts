@@ -55,3 +55,4 @@ class Manager extends Employee {
     super(name, department, salary + 10000);
   }
 }
+/*---DONE---*/
